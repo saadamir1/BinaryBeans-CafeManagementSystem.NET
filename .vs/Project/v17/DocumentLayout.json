@@ -1,0 +1,495 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\temp data\\Web dev Data\\Binary Beans .net\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2904AD3B-3677-4E00-8C4A-D8D37ADE7321}|Project.csproj|D:\\temp data\\Web dev Data\\Binary Beans .net\\customermenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2904AD3B-3677-4E00-8C4A-D8D37ADE7321}|Project.csproj|solutionrelative:customermenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2904AD3B-3677-4E00-8C4A-D8D37ADE7321}|Project.csproj|d:\\temp data\\web dev data\\binary beans .net\\loginstaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2904AD3B-3677-4E00-8C4A-D8D37ADE7321}|Project.csproj|solutionrelative:loginstaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2904AD3B-3677-4E00-8C4A-D8D37ADE7321}|Project.csproj|D:\\temp data\\Web dev Data\\Binary Beans .net\\loginstaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2904AD3B-3677-4E00-8C4A-D8D37ADE7321}|Project.csproj|solutionrelative:loginstaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2904AD3B-3677-4E00-8C4A-D8D37ADE7321}|Project.csproj|D:\\temp data\\Web dev Data\\Binary Beans .net\\inventorymanageroperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2904AD3B-3677-4E00-8C4A-D8D37ADE7321}|Project.csproj|solutionrelative:inventorymanageroperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2904AD3B-3677-4E00-8C4A-D8D37ADE7321}|Project.csproj|D:\\temp data\\Web dev Data\\Binary Beans .net\\customermenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2904AD3B-3677-4E00-8C4A-D8D37ADE7321}|Project.csproj|solutionrelative:customermenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2904AD3B-3677-4E00-8C4A-D8D37ADE7321}|Project.csproj|D:\\temp data\\Web dev Data\\Binary Beans .net\\customerregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2904AD3B-3677-4E00-8C4A-D8D37ADE7321}|Project.csproj|solutionrelative:customerregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2904AD3B-3677-4E00-8C4A-D8D37ADE7321}|Project.csproj|D:\\temp data\\Web dev Data\\Binary Beans .net\\customerregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2904AD3B-3677-4E00-8C4A-D8D37ADE7321}|Project.csproj|solutionrelative:customerregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2904AD3B-3677-4E00-8C4A-D8D37ADE7321}|Project.csproj|D:\\temp data\\Web dev Data\\Binary Beans .net\\cutomerlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2904AD3B-3677-4E00-8C4A-D8D37ADE7321}|Project.csproj|solutionrelative:cutomerlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2904AD3B-3677-4E00-8C4A-D8D37ADE7321}|Project.csproj|D:\\temp data\\Web dev Data\\Binary Beans .net\\cutomerlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2904AD3B-3677-4E00-8C4A-D8D37ADE7321}|Project.csproj|solutionrelative:cutomerlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2904AD3B-3677-4E00-8C4A-D8D37ADE7321}|Project.csproj|D:\\temp data\\Web dev Data\\Binary Beans .net\\cashiermenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2904AD3B-3677-4E00-8C4A-D8D37ADE7321}|Project.csproj|solutionrelative:cashiermenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2904AD3B-3677-4E00-8C4A-D8D37ADE7321}|Project.csproj|D:\\temp data\\Web dev Data\\Binary Beans .net\\confirmorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2904AD3B-3677-4E00-8C4A-D8D37ADE7321}|Project.csproj|solutionrelative:confirmorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2904AD3B-3677-4E00-8C4A-D8D37ADE7321}|Project.csproj|D:\\temp data\\Web dev Data\\Binary Beans .net\\cafemanagermenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2904AD3B-3677-4E00-8C4A-D8D37ADE7321}|Project.csproj|solutionrelative:cafemanagermenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2904AD3B-3677-4E00-8C4A-D8D37ADE7321}|Project.csproj|D:\\temp data\\Web dev Data\\Binary Beans .net\\allproductlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2904AD3B-3677-4E00-8C4A-D8D37ADE7321}|Project.csproj|solutionrelative:allproductlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2904AD3B-3677-4E00-8C4A-D8D37ADE7321}|Project.csproj|D:\\temp data\\Web dev Data\\Binary Beans .net\\allproductlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2904AD3B-3677-4E00-8C4A-D8D37ADE7321}|Project.csproj|solutionrelative:allproductlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2904AD3B-3677-4E00-8C4A-D8D37ADE7321}|Project.csproj|D:\\temp data\\Web dev Data\\Binary Beans .net\\allcategories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2904AD3B-3677-4E00-8C4A-D8D37ADE7321}|Project.csproj|solutionrelative:allcategories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2904AD3B-3677-4E00-8C4A-D8D37ADE7321}|Project.csproj|D:\\temp data\\Web dev Data\\Binary Beans .net\\editcustomersdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2904AD3B-3677-4E00-8C4A-D8D37ADE7321}|Project.csproj|solutionrelative:editcustomersdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2904AD3B-3677-4E00-8C4A-D8D37ADE7321}|Project.csproj|D:\\temp data\\Web dev Data\\Binary Beans .net\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2904AD3B-3677-4E00-8C4A-D8D37ADE7321}|Project.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2904AD3B-3677-4E00-8C4A-D8D37ADE7321}|Project.csproj|D:\\temp data\\Web dev Data\\Binary Beans .net\\cashiermenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2904AD3B-3677-4E00-8C4A-D8D37ADE7321}|Project.csproj|solutionrelative:cashiermenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2904AD3B-3677-4E00-8C4A-D8D37ADE7321}|Project.csproj|D:\\temp data\\Web dev Data\\Binary Beans .net\\editcustomersdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2904AD3B-3677-4E00-8C4A-D8D37ADE7321}|Project.csproj|solutionrelative:editcustomersdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2904AD3B-3677-4E00-8C4A-D8D37ADE7321}|Project.csproj|D:\\temp data\\Web dev Data\\Binary Beans .net\\cafemanagermenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2904AD3B-3677-4E00-8C4A-D8D37ADE7321}|Project.csproj|solutionrelative:cafemanagermenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2904AD3B-3677-4E00-8C4A-D8D37ADE7321}|Project.csproj|D:\\temp data\\Web dev Data\\Binary Beans .net\\loginstaff.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2904AD3B-3677-4E00-8C4A-D8D37ADE7321}|Project.csproj|solutionrelative:loginstaff.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2904AD3B-3677-4E00-8C4A-D8D37ADE7321}|Project.csproj|D:\\temp data\\Web dev Data\\Binary Beans .net\\confirmorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2904AD3B-3677-4E00-8C4A-D8D37ADE7321}|Project.csproj|solutionrelative:confirmorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2904AD3B-3677-4E00-8C4A-D8D37ADE7321}|Project.csproj|D:\\temp data\\Web dev Data\\Binary Beans .net\\allcategories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2904AD3B-3677-4E00-8C4A-D8D37ADE7321}|Project.csproj|solutionrelative:allcategories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2904AD3B-3677-4E00-8C4A-D8D37ADE7321}|Project.csproj|D:\\temp data\\Web dev Data\\Binary Beans .net\\customerutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2904AD3B-3677-4E00-8C4A-D8D37ADE7321}|Project.csproj|solutionrelative:customerutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2904AD3B-3677-4E00-8C4A-D8D37ADE7321}|Project.csproj|D:\\temp data\\Web dev Data\\Binary Beans .net\\allproductlist.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{2904AD3B-3677-4E00-8C4A-D8D37ADE7321}|Project.csproj|solutionrelative:allproductlist.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2904AD3B-3677-4E00-8C4A-D8D37ADE7321}|Project.csproj|D:\\temp data\\Web dev Data\\Binary Beans .net\\allproductlist.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2904AD3B-3677-4E00-8C4A-D8D37ADE7321}|Project.csproj|solutionrelative:allproductlist.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2904AD3B-3677-4E00-8C4A-D8D37ADE7321}|Project.csproj|D:\\temp data\\Web dev Data\\Binary Beans .net\\customerutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2904AD3B-3677-4E00-8C4A-D8D37ADE7321}|Project.csproj|solutionrelative:customerutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2904AD3B-3677-4E00-8C4A-D8D37ADE7321}|Project.csproj|D:\\temp data\\Web dev Data\\Binary Beans .net\\receiptform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2904AD3B-3677-4E00-8C4A-D8D37ADE7321}|Project.csproj|solutionrelative:receiptform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2904AD3B-3677-4E00-8C4A-D8D37ADE7321}|Project.csproj|D:\\temp data\\Web dev Data\\Binary Beans .net\\receiptform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2904AD3B-3677-4E00-8C4A-D8D37ADE7321}|Project.csproj|solutionrelative:receiptform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2904AD3B-3677-4E00-8C4A-D8D37ADE7321}|Project.csproj|D:\\temp data\\Web dev Data\\Binary Beans .net\\inventorymanageroperations.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2904AD3B-3677-4E00-8C4A-D8D37ADE7321}|Project.csproj|solutionrelative:inventorymanageroperations.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2904AD3B-3677-4E00-8C4A-D8D37ADE7321}|Project.csproj|D:\\temp data\\Web dev Data\\Binary Beans .net\\cafev6dataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{2904AD3B-3677-4E00-8C4A-D8D37ADE7321}|Project.csproj|solutionrelative:cafev6dataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 164,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "customerRegister.cs",
+              "DocumentMoniker": "D:\\temp data\\Web dev Data\\Binary Beans .net\\customerRegister.cs",
+              "RelativeDocumentMoniker": "customerRegister.cs",
+              "ToolTip": "D:\\temp data\\Web dev Data\\Binary Beans .net\\customerRegister.cs",
+              "RelativeToolTip": "customerRegister.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAPAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-05-23T11:16:16.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerMenu.cs",
+              "DocumentMoniker": "D:\\temp data\\Web dev Data\\Binary Beans .net\\CustomerMenu.cs",
+              "RelativeDocumentMoniker": "CustomerMenu.cs",
+              "ToolTip": "D:\\temp data\\Web dev Data\\Binary Beans .net\\CustomerMenu.cs",
+              "RelativeToolTip": "CustomerMenu.cs",
+              "ViewState": "AQIAAGkAAAAAMzMzMzMLwG4AAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T11:16:16.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InventoryManagerOperations.cs",
+              "DocumentMoniker": "D:\\temp data\\Web dev Data\\Binary Beans .net\\InventoryManagerOperations.cs",
+              "RelativeDocumentMoniker": "InventoryManagerOperations.cs",
+              "ToolTip": "D:\\temp data\\Web dev Data\\Binary Beans .net\\InventoryManagerOperations.cs",
+              "RelativeToolTip": "InventoryManagerOperations.cs",
+              "ViewState": "AQIAAM0AAAAAnJmZmZkBwBEAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T11:16:17.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "customerRegister.cs [Design]",
+              "DocumentMoniker": "D:\\temp data\\Web dev Data\\Binary Beans .net\\customerRegister.cs",
+              "RelativeDocumentMoniker": "customerRegister.cs",
+              "ToolTip": "C:\\Users\\saada\\Desktop\\AmmarV5\\customerRegister.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-05-23T11:16:17.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "loginstaff.cs",
+              "DocumentMoniker": "D:\\temp data\\Web dev Data\\Binary Beans .net\\loginstaff.cs",
+              "RelativeDocumentMoniker": "loginstaff.cs",
+              "ToolTip": "D:\\temp data\\Web dev Data\\Binary Beans .net\\loginstaff.cs",
+              "RelativeToolTip": "loginstaff.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T11:16:17.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "loginstaff.cs [Design]",
+              "DocumentMoniker": "D:\\temp data\\Web dev Data\\Binary Beans .net\\loginstaff.cs",
+              "RelativeDocumentMoniker": "loginstaff.cs",
+              "ToolTip": "D:\\temp data\\Web dev Data\\Binary Beans .net\\loginstaff.cs [Design]*",
+              "RelativeToolTip": "loginstaff.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T11:16:17.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomerMenu.cs [Design]",
+              "DocumentMoniker": "D:\\temp data\\Web dev Data\\Binary Beans .net\\CustomerMenu.cs",
+              "RelativeDocumentMoniker": "CustomerMenu.cs",
+              "ToolTip": "D:\\temp data\\Web dev Data\\Binary Beans .net\\CustomerMenu.cs [Design]",
+              "RelativeToolTip": "CustomerMenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T11:16:15.928Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CutomerLogin.cs",
+              "DocumentMoniker": "D:\\temp data\\Web dev Data\\Binary Beans .net\\CutomerLogin.cs",
+              "RelativeDocumentMoniker": "CutomerLogin.cs",
+              "ToolTip": "D:\\temp data\\Web dev Data\\Binary Beans .net\\CutomerLogin.cs",
+              "RelativeToolTip": "CutomerLogin.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAQwGQAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-05-23T11:16:17.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CutomerLogin.cs [Design]",
+              "DocumentMoniker": "D:\\temp data\\Web dev Data\\Binary Beans .net\\CutomerLogin.cs",
+              "RelativeDocumentMoniker": "CutomerLogin.cs",
+              "ToolTip": "C:\\Users\\saada\\Desktop\\AmmarV5\\CutomerLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-05-23T11:16:17.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ConfirmOrder.cs [Design]",
+              "DocumentMoniker": "D:\\temp data\\Web dev Data\\Binary Beans .net\\ConfirmOrder.cs",
+              "RelativeDocumentMoniker": "ConfirmOrder.cs",
+              "ToolTip": "C:\\Users\\saada\\Desktop\\AmmarV5\\ConfirmOrder.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-05-23T11:16:17.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "cashierMenu.cs [Design]",
+              "DocumentMoniker": "D:\\temp data\\Web dev Data\\Binary Beans .net\\cashierMenu.cs",
+              "RelativeDocumentMoniker": "cashierMenu.cs",
+              "ToolTip": "C:\\Users\\saada\\Desktop\\AmmarV5\\cashierMenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-05-23T11:16:17.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "cafeManagerMenu.cs [Design]",
+              "DocumentMoniker": "D:\\temp data\\Web dev Data\\Binary Beans .net\\cafeManagerMenu.cs",
+              "RelativeDocumentMoniker": "cafeManagerMenu.cs",
+              "ToolTip": "C:\\Users\\saada\\Desktop\\AmmarV5\\cafeManagerMenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-05-23T11:16:17.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AllProductList.cs",
+              "DocumentMoniker": "D:\\temp data\\Web dev Data\\Binary Beans .net\\AllProductList.cs",
+              "RelativeDocumentMoniker": "AllProductList.cs",
+              "ToolTip": "D:\\temp data\\Web dev Data\\Binary Beans .net\\AllProductList.cs",
+              "RelativeToolTip": "AllProductList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-05-23T11:16:17.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AllProductList.cs [Design]",
+              "DocumentMoniker": "D:\\temp data\\Web dev Data\\Binary Beans .net\\AllProductList.cs",
+              "RelativeDocumentMoniker": "AllProductList.cs",
+              "ToolTip": "C:\\Users\\saada\\Desktop\\AmmarV5\\AllProductList.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-05-23T11:16:17.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "allCategories.cs [Design]",
+              "DocumentMoniker": "D:\\temp data\\Web dev Data\\Binary Beans .net\\allCategories.cs",
+              "RelativeDocumentMoniker": "allCategories.cs",
+              "ToolTip": "C:\\Users\\saada\\Desktop\\AmmarV5\\allCategories.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-05-23T11:16:18.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "editCustomersData.cs [Design]",
+              "DocumentMoniker": "D:\\temp data\\Web dev Data\\Binary Beans .net\\editCustomersData.cs",
+              "RelativeDocumentMoniker": "editCustomersData.cs",
+              "ToolTip": "C:\\Users\\saada\\Desktop\\AmmarV5\\editCustomersData.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-05-23T11:16:18.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\temp data\\Web dev Data\\Binary Beans .net\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\temp data\\Web dev Data\\Binary Beans .net\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T11:16:18.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "cashierMenu.cs",
+              "DocumentMoniker": "D:\\temp data\\Web dev Data\\Binary Beans .net\\cashierMenu.cs",
+              "RelativeDocumentMoniker": "cashierMenu.cs",
+              "ToolTip": "D:\\temp data\\Web dev Data\\Binary Beans .net\\cashierMenu.cs",
+              "RelativeToolTip": "cashierMenu.cs",
+              "ViewState": "AQIAAIkAAAAAAAAAAAAqwJMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-05-23T11:16:18.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "editCustomersData.cs",
+              "DocumentMoniker": "D:\\temp data\\Web dev Data\\Binary Beans .net\\editCustomersData.cs",
+              "RelativeDocumentMoniker": "editCustomersData.cs",
+              "ToolTip": "D:\\temp data\\Web dev Data\\Binary Beans .net\\editCustomersData.cs",
+              "RelativeToolTip": "editCustomersData.cs",
+              "ViewState": "AQIAAHYAAAAAAAAAAAAuwIgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-05-23T11:16:18.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "cafeManagerMenu.cs",
+              "DocumentMoniker": "D:\\temp data\\Web dev Data\\Binary Beans .net\\cafeManagerMenu.cs",
+              "RelativeDocumentMoniker": "cafeManagerMenu.cs",
+              "ToolTip": "D:\\temp data\\Web dev Data\\Binary Beans .net\\cafeManagerMenu.cs",
+              "RelativeToolTip": "cafeManagerMenu.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAiwBoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-05-23T11:16:18.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "cafeV6DataSet.xsd",
+              "DocumentMoniker": "D:\\temp data\\Web dev Data\\Binary Beans .net\\cafeV6DataSet.xsd",
+              "RelativeDocumentMoniker": "cafeV6DataSet.xsd",
+              "ToolTip": "D:\\temp data\\Web dev Data\\Binary Beans .net\\cafeV6DataSet.xsd",
+              "RelativeToolTip": "cafeV6DataSet.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000835|",
+              "WhenOpened": "2024-05-23T11:16:18.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "loginstaff.Designer.cs",
+              "DocumentMoniker": "D:\\temp data\\Web dev Data\\Binary Beans .net\\loginstaff.Designer.cs",
+              "RelativeDocumentMoniker": "loginstaff.Designer.cs",
+              "ToolTip": "D:\\temp data\\Web dev Data\\Binary Beans .net\\loginstaff.Designer.cs",
+              "RelativeToolTip": "loginstaff.Designer.cs",
+              "ViewState": "AQIAAE0AAAAYAAAAAAAowFkAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T11:16:18.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ConfirmOrder.cs",
+              "DocumentMoniker": "D:\\temp data\\Web dev Data\\Binary Beans .net\\ConfirmOrder.cs",
+              "RelativeDocumentMoniker": "ConfirmOrder.cs",
+              "ToolTip": "D:\\temp data\\Web dev Data\\Binary Beans .net\\ConfirmOrder.cs",
+              "RelativeToolTip": "ConfirmOrder.cs",
+              "ViewState": "AQIAAA0BAAAAXmZmZmYGwBcBAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-05-23T11:16:18.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "allCategories.cs",
+              "DocumentMoniker": "D:\\temp data\\Web dev Data\\Binary Beans .net\\allCategories.cs",
+              "RelativeDocumentMoniker": "allCategories.cs",
+              "ToolTip": "D:\\temp data\\Web dev Data\\Binary Beans .net\\allCategories.cs",
+              "RelativeToolTip": "allCategories.cs",
+              "ViewState": "AQIAAOsAAAAAAAAAAAAmwAABAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-05-23T11:16:18.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CustomerUtility.cs [Design]",
+              "DocumentMoniker": "D:\\temp data\\Web dev Data\\Binary Beans .net\\CustomerUtility.cs",
+              "RelativeDocumentMoniker": "CustomerUtility.cs",
+              "ToolTip": "C:\\Users\\saada\\Desktop\\AmmarV5\\CustomerUtility.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-05-23T11:16:18.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AllProductList.resx",
+              "DocumentMoniker": "D:\\temp data\\Web dev Data\\Binary Beans .net\\AllProductList.resx",
+              "RelativeDocumentMoniker": "AllProductList.resx",
+              "ToolTip": "D:\\temp data\\Web dev Data\\Binary Beans .net\\AllProductList.resx",
+              "RelativeToolTip": "AllProductList.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-05-23T11:16:18.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AllProductList.Designer.cs",
+              "DocumentMoniker": "D:\\temp data\\Web dev Data\\Binary Beans .net\\AllProductList.Designer.cs",
+              "RelativeDocumentMoniker": "AllProductList.Designer.cs",
+              "ToolTip": "D:\\temp data\\Web dev Data\\Binary Beans .net\\AllProductList.Designer.cs",
+              "RelativeToolTip": "AllProductList.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-05-23T11:16:18.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CustomerUtility.cs",
+              "DocumentMoniker": "D:\\temp data\\Web dev Data\\Binary Beans .net\\CustomerUtility.cs",
+              "RelativeDocumentMoniker": "CustomerUtility.cs",
+              "ToolTip": "D:\\temp data\\Web dev Data\\Binary Beans .net\\CustomerUtility.cs",
+              "RelativeToolTip": "CustomerUtility.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-05-23T11:16:18.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ReceiptForm.cs",
+              "DocumentMoniker": "D:\\temp data\\Web dev Data\\Binary Beans .net\\ReceiptForm.cs",
+              "RelativeDocumentMoniker": "ReceiptForm.cs",
+              "ToolTip": "D:\\temp data\\Web dev Data\\Binary Beans .net\\ReceiptForm.cs",
+              "RelativeToolTip": "ReceiptForm.cs",
+              "ViewState": "AQIAAC4AAACAZmZmZmYmwDcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-05-23T11:16:18.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ReceiptForm.cs [Design]",
+              "DocumentMoniker": "D:\\temp data\\Web dev Data\\Binary Beans .net\\ReceiptForm.cs",
+              "RelativeDocumentMoniker": "ReceiptForm.cs",
+              "ToolTip": "C:\\Users\\saada\\Desktop\\AmmarV5\\ReceiptForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-05-23T11:16:18.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "InventoryManagerOperations.Designer.cs",
+              "DocumentMoniker": "D:\\temp data\\Web dev Data\\Binary Beans .net\\InventoryManagerOperations.Designer.cs",
+              "RelativeDocumentMoniker": "InventoryManagerOperations.Designer.cs",
+              "ToolTip": "D:\\temp data\\Web dev Data\\Binary Beans .net\\InventoryManagerOperations.Designer.cs",
+              "RelativeToolTip": "InventoryManagerOperations.Designer.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAASwG8AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T11:16:18.037Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+C:\Users\Lenovo\source\repos\Project\bin\Debug\Project.exe.config
+C:\Users\Lenovo\source\repos\Project\bin\Debug\Project.exe
+C:\Users\Lenovo\source\repos\Project\bin\Debug\Project.pdb
+C:\Users\Lenovo\source\repos\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Project\obj\Debug\Project.Form1.resources
+C:\Users\Lenovo\source\repos\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\Project\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Project\obj\Debug\Project.exe
+C:\Users\Lenovo\source\repos\Project\obj\Debug\Project.pdb
+C:\Users\Lenovo\source\repos\Project\obj\Debug\Project.Form2.resources
+C:\Users\saada\Desktop\DB project\Project\bin\Debug\Project.exe.config
+C:\Users\saada\Desktop\DB project\Project\bin\Debug\Project.exe
+C:\Users\saada\Desktop\DB project\Project\bin\Debug\Project.pdb
+C:\Users\saada\Desktop\DB project\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+C:\Users\saada\Desktop\DB project\Project\obj\Debug\Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\saada\Desktop\DB project\Project\obj\Debug\Project.Form2.resources
+C:\Users\saada\Desktop\DB project\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\saada\Desktop\DB project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\saada\Desktop\DB project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\saada\Desktop\DB project\Project\obj\Debug\Project.exe
+C:\Users\saada\Desktop\DB project\Project\obj\Debug\Project.pdb
+C:\Users\saada\Desktop\DB project\Project\obj\Debug\Project.cafeMenu.resources
+C:\Users\saada\Desktop\DB project\Project\obj\Debug\Project.cafeManagerMenu.resources
+C:\Users\saada\Desktop\DB project\Project\obj\Debug\Project.cashierMenu.resources
+C:\Users\saada\Desktop\DB project\Project\obj\Debug\Project.invManagerMenu.resources
+C:\Users\saada\Desktop\DB project\Project\obj\Debug\Project.AllProductList.resources
+C:\Users\saada\Desktop\DB project\Project\obj\Debug\Project.CustomerMenu.resources
+C:\Users\saada\Desktop\DB project\Project\obj\Debug\Project.customerRegister.resources
+C:\Users\saada\Desktop\DB project\Project\obj\Debug\Project.CutomerLogin.resources
+C:\Users\saada\Desktop\DB project\Project\obj\Debug\Project.placeOrder.resources
+C:\Users\saada\Desktop\DB project\Project\obj\Debug\Project.userOptions.resources
+C:\Users\Lenovo\Downloads\DB project\DB project\Project\bin\Debug\Project.exe.config
+C:\Users\Lenovo\Downloads\DB project\DB project\Project\bin\Debug\Project.exe
+C:\Users\Lenovo\Downloads\DB project\DB project\Project\bin\Debug\Project.pdb
+C:\Users\Lenovo\Downloads\DB project\DB project\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Downloads\DB project\DB project\Project\obj\Debug\Project.AllProductList.resources
+C:\Users\Lenovo\Downloads\DB project\DB project\Project\obj\Debug\Project.cafeMenu.resources
+C:\Users\Lenovo\Downloads\DB project\DB project\Project\obj\Debug\Project.CustomerMenu.resources
+C:\Users\Lenovo\Downloads\DB project\DB project\Project\obj\Debug\Project.customerRegister.resources
+C:\Users\Lenovo\Downloads\DB project\DB project\Project\obj\Debug\Project.CutomerLogin.resources
+C:\Users\Lenovo\Downloads\DB project\DB project\Project\obj\Debug\Project.Form2.resources
+C:\Users\Lenovo\Downloads\DB project\DB project\Project\obj\Debug\Project.cafeManagerMenu.resources
+C:\Users\Lenovo\Downloads\DB project\DB project\Project\obj\Debug\Project.cashierMenu.resources
+C:\Users\Lenovo\Downloads\DB project\DB project\Project\obj\Debug\Project.invManagerMenu.resources
+C:\Users\Lenovo\Downloads\DB project\DB project\Project\obj\Debug\Project.placeOrder.resources
+C:\Users\Lenovo\Downloads\DB project\DB project\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\Lenovo\Downloads\DB project\DB project\Project\obj\Debug\Project.userOptions.resources
+C:\Users\Lenovo\Downloads\DB project\DB project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\Lenovo\Downloads\DB project\DB project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\DB project\DB project\Project\obj\Debug\Project.exe
+C:\Users\Lenovo\Downloads\DB project\DB project\Project\obj\Debug\Project.pdb
+C:\Users\Lenovo\Downloads\DB project\DB project\Project\obj\Debug\Project.allCategories.resources
+C:\Users\Lenovo\Downloads\DB project\DB project\Project\obj\Debug\Project.ReceiptForm.resources
+C:\Users\Lenovo\Downloads\DB project\DB project\Project\obj\Debug\Project.loginstaff.resources
+C:\Users\Lenovo\Downloads\DB project\DB project\Project\obj\Debug\Project.cafemanagerlogin.resources
+C:\Users\Lenovo\Downloads\DB project\DB project\Project\obj\Debug\Project.loginInventoryManager.resources
+C:\Users\Lenovo\Downloads\DB project\DB project\Project\obj\Debug\Project.Cashierlogin.resources
+C:\Users\Lenovo\Downloads\DB project\DB project\Project\obj\Debug\Project.InventoryManagerOperations.resources
+C:\Users\saada\Desktop\AmmarV5\obj\Debug\Project.csproj.AssemblyReference.cache
+C:\Users\saada\Desktop\AmmarV5\obj\Debug\Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\saada\Desktop\AmmarV5\obj\Debug\Project.allCategories.resources
+C:\Users\saada\Desktop\AmmarV5\obj\Debug\Project.AllProductList.resources
+C:\Users\saada\Desktop\AmmarV5\obj\Debug\Project.CustomerMenu.resources
+C:\Users\saada\Desktop\AmmarV5\obj\Debug\Project.customerRegister.resources
+C:\Users\saada\Desktop\AmmarV5\obj\Debug\Project.CutomerLogin.resources
+C:\Users\saada\Desktop\AmmarV5\obj\Debug\Project.cafeManagerMenu.resources
+C:\Users\saada\Desktop\AmmarV5\obj\Debug\Project.cashierMenu.resources
+C:\Users\saada\Desktop\AmmarV5\obj\Debug\Project.InventoryManagerOperations.resources
+C:\Users\saada\Desktop\AmmarV5\obj\Debug\Project.loginstaff.resources
+C:\Users\saada\Desktop\AmmarV5\obj\Debug\Project.Properties.Resources.resources
+C:\Users\saada\Desktop\AmmarV5\obj\Debug\Project.ReceiptForm.resources
+C:\Users\saada\Desktop\AmmarV5\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\saada\Desktop\AmmarV5\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\saada\Desktop\AmmarV5\obj\Debug\Project.exe
+C:\Users\saada\Desktop\AmmarV5\obj\Debug\Project.pdb
+C:\Users\saada\Desktop\AmmarV5\bin\Debug\Project.exe.config
+C:\Users\saada\Desktop\AmmarV5\bin\Debug\Project.exe
+C:\Users\saada\Desktop\AmmarV5\bin\Debug\Project.pdb
+C:\Users\saada\Desktop\AmmarV5\obj\Debug\Project.ConfirmOrderForm.resources
+C:\Users\saada\Desktop\AmmarV5\obj\Debug\Project.CustomerUtility.resources
+C:\Users\saada\Desktop\AmmarV5\obj\Debug\Project.editCustomersData.resources
+C:\Users\saada\Downloads\IICT\Web dev Data\Binary Beans .net\bin\Debug\Project.exe.config
+C:\Users\saada\Downloads\IICT\Web dev Data\Binary Beans .net\bin\Debug\Project.exe
+C:\Users\saada\Downloads\IICT\Web dev Data\Binary Beans .net\bin\Debug\Project.pdb
+C:\Users\saada\Downloads\IICT\Web dev Data\Binary Beans .net\obj\Debug\Project.csproj.AssemblyReference.cache
+C:\Users\saada\Downloads\IICT\Web dev Data\Binary Beans .net\obj\Debug\Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\saada\Downloads\IICT\Web dev Data\Binary Beans .net\obj\Debug\Project.allCategories.resources
+C:\Users\saada\Downloads\IICT\Web dev Data\Binary Beans .net\obj\Debug\Project.AllProductList.resources
+C:\Users\saada\Downloads\IICT\Web dev Data\Binary Beans .net\obj\Debug\Project.ConfirmOrderForm.resources
+C:\Users\saada\Downloads\IICT\Web dev Data\Binary Beans .net\obj\Debug\Project.CustomerMenu.resources
+C:\Users\saada\Downloads\IICT\Web dev Data\Binary Beans .net\obj\Debug\Project.customerRegister.resources
+C:\Users\saada\Downloads\IICT\Web dev Data\Binary Beans .net\obj\Debug\Project.CustomerUtility.resources
+C:\Users\saada\Downloads\IICT\Web dev Data\Binary Beans .net\obj\Debug\Project.CutomerLogin.resources
+C:\Users\saada\Downloads\IICT\Web dev Data\Binary Beans .net\obj\Debug\Project.editCustomersData.resources
+C:\Users\saada\Downloads\IICT\Web dev Data\Binary Beans .net\obj\Debug\Project.cafeManagerMenu.resources
+C:\Users\saada\Downloads\IICT\Web dev Data\Binary Beans .net\obj\Debug\Project.cashierMenu.resources
+C:\Users\saada\Downloads\IICT\Web dev Data\Binary Beans .net\obj\Debug\Project.InventoryManagerOperations.resources
+C:\Users\saada\Downloads\IICT\Web dev Data\Binary Beans .net\obj\Debug\Project.loginstaff.resources
+C:\Users\saada\Downloads\IICT\Web dev Data\Binary Beans .net\obj\Debug\Project.Properties.Resources.resources
+C:\Users\saada\Downloads\IICT\Web dev Data\Binary Beans .net\obj\Debug\Project.ReceiptForm.resources
+C:\Users\saada\Downloads\IICT\Web dev Data\Binary Beans .net\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\saada\Downloads\IICT\Web dev Data\Binary Beans .net\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\saada\Downloads\IICT\Web dev Data\Binary Beans .net\obj\Debug\Project.exe
+C:\Users\saada\Downloads\IICT\Web dev Data\Binary Beans .net\obj\Debug\Project.pdb
+D:\temp data\Web dev Data\Binary Beans .net\bin\Debug\Project.exe.config
+D:\temp data\Web dev Data\Binary Beans .net\bin\Debug\Project.exe
+D:\temp data\Web dev Data\Binary Beans .net\bin\Debug\Project.pdb
+D:\temp data\Web dev Data\Binary Beans .net\obj\Debug\Project.csproj.AssemblyReference.cache
+D:\temp data\Web dev Data\Binary Beans .net\obj\Debug\Project.allCategories.resources
+D:\temp data\Web dev Data\Binary Beans .net\obj\Debug\Project.AllProductList.resources
+D:\temp data\Web dev Data\Binary Beans .net\obj\Debug\Project.ConfirmOrderForm.resources
+D:\temp data\Web dev Data\Binary Beans .net\obj\Debug\Project.CustomerMenu.resources
+D:\temp data\Web dev Data\Binary Beans .net\obj\Debug\Project.customerRegister.resources
+D:\temp data\Web dev Data\Binary Beans .net\obj\Debug\Project.CustomerUtility.resources
+D:\temp data\Web dev Data\Binary Beans .net\obj\Debug\Project.CutomerLogin.resources
+D:\temp data\Web dev Data\Binary Beans .net\obj\Debug\Project.editCustomersData.resources
+D:\temp data\Web dev Data\Binary Beans .net\obj\Debug\Project.cafeManagerMenu.resources
+D:\temp data\Web dev Data\Binary Beans .net\obj\Debug\Project.cashierMenu.resources
+D:\temp data\Web dev Data\Binary Beans .net\obj\Debug\Project.InventoryManagerOperations.resources
+D:\temp data\Web dev Data\Binary Beans .net\obj\Debug\Project.loginstaff.resources
+D:\temp data\Web dev Data\Binary Beans .net\obj\Debug\Project.Properties.Resources.resources
+D:\temp data\Web dev Data\Binary Beans .net\obj\Debug\Project.ReceiptForm.resources
+D:\temp data\Web dev Data\Binary Beans .net\obj\Debug\Project.csproj.GenerateResource.cache
+D:\temp data\Web dev Data\Binary Beans .net\obj\Debug\Project.csproj.CoreCompileInputs.cache
+D:\temp data\Web dev Data\Binary Beans .net\obj\Debug\Project.exe
+D:\temp data\Web dev Data\Binary Beans .net\obj\Debug\Project.pdb
